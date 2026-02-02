@@ -1,0 +1,9 @@
+1_Inicio
+2_leia n;#entrada
+3_a=n-1;#entrada
+4_b=10-n;#entrada
+5_c=a*10;#processamento
+6_d=c+b;#processamento
+7_imprima "tem o valor de"
+8_imprima "d";# saída
+9_Fim
