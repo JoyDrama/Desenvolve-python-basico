@@ -1,4 +1,4 @@
 # Desenvolve-python-basico
-Projeto Desenvolve - Bom Despacho
-Programação básica com Python
-PDBD150
+-Projeto Desenvolve - Bom Despacho
+-Programação básica com Python
+-PDBD150
