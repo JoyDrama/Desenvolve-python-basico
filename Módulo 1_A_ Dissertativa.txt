@@ -1,0 +1,6 @@
+Leia de armazene n
+Leia e armazene a=n-1
+Leia e armazene b=10-n
+aplique a operação c=a*10
+aplique a operação d=c+b
+apresente d
